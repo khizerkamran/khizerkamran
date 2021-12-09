@@ -11,5 +11,5 @@ Programmer from UTECH.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khizerkamran&layout=compact&theme=radical)
 
 # My website
--[My Startup](https://khizer-kamran.web.app/)
+-[My Website](https://khizer-kamran.web.app/)
 <br />
