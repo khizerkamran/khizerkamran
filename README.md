@@ -1,9 +1,9 @@
 # Programmer Khizer Kamran.
 <img src="https://github.com/wardaharshad/wardaharshad/blob/main/Image/hello.gif" width="30"> <br />Hello World, I am <strong>Khizer Kamran</strong>.<br />
-I am a Python Programmer.<br/>
-I like to work on AI, and Data Science Projects. <br/>
-I am also a Web developer & Js devloper and work as a junior instructer at utech. <br/>
-Programmer from UTECH.
+I am a Python Programmer and PowerBI expert.<br/>
+I like to work on different projects. <br/>
+I am also a data scientist, visualizer, ML expert, and AI expert. <br/>
+Programmer from Karachi.
 <br/>
 <br/>
 
